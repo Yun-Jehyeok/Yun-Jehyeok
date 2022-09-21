@@ -13,7 +13,7 @@
  
  #### BLOG
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbswpgur2)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbswpgur2&color=dark)](https://github.com/eungyeole/velog-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-Jehyeok&show_icons=true&theme=radical)
 
