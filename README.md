@@ -10,10 +10,12 @@
 💪🏼 Tools 
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+ 
+ #### BLOG
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbswpgur2)](https://github.com/eungyeole/velog-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-Jehyeok&show_icons=true&theme=radical)
 
 
-#### BLOG
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbswpgur2)](https://github.com/eungyeole/velog-readme-stats)
