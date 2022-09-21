@@ -14,3 +14,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-Jehyeok&show_icons=true&theme=radical)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=dbswpgur2)](https://velog.io/@dbswpgur2) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbswpgur2)](https://github.com/dbswpgur2/velog-readme-stats)
