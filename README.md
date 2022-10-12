@@ -13,6 +13,8 @@
  
  🌱 Learning ...
 
+<img src="https://img.shields.io/badge/TailwindCSS-36B7F0?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+
 - TailwindCSS
 - Serverless
 - Spring Boot
