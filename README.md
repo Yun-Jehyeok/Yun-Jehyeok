@@ -13,11 +13,7 @@
  
  🌱 Learning ...
 
-<img src="https://img.shields.io/badge/TailwindCSS-36B7F0?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-
-- TailwindCSS
-- Serverless
-- Spring Boot
+<img src="https://img.shields.io/badge/Tailwind CSS-36B7F0?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
  #### BLOG
 
